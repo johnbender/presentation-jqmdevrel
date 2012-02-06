@@ -1,0 +1,60 @@
+* about me
+* overview
+* @ Adobe
+* goods
+** dev familiarity
+*** > 50% top 10000
+** ui kit
+*** forms, layout, grouping
+** semantic markup as api
+*** simple example with iframe
+** progressive enhancement
+*** simple example without js
+** browser support
+** modularity
+*** amd
+*** 45 modules
+** "don't try this at home"
+* bads
+** transitions
+** toolbars
+** external integrations
+** speed
+** size
+* roadmap
+** 1.1
+*** transitions
+*** toolbars
+*** builder
+*** February
+** 1.2
+*** popup
+*** fetchlinks
+** 2.0
+*** tablet ui
+*** fetch links
+* positioning
+** relative to other frameworks
+*** sencha
+**** might be better for native replacement
+**** javascript for layout
+**** scrolling
+*** dojo mobile, jq.mobi
+** relative to no framework
+*** simple sites
+*** media queries
+** relative to native
+*** look and feel
+*** battery life/perf
+* resources
+** sample sites
+*** jqmgallery.com
+** documentation
+*** jquerymobile.com/demos/
+** books
+*** 8 so far
+*** oreilly, packt, apress
+** everything
+*** http://jquerymobile.com/resources/
+** sampling the community
+*** Hacker News
