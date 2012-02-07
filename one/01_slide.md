@@ -13,9 +13,8 @@ johnbender.github.com/presentation-jqmdevrel
 !SLIDE
 # All The Things
 
-!SLIDE center
+!SLIDE center adobe-background
 ## @ Adobe
-<img src="adobe.jpg" style="max-height: 600px"></img>
 
 !SLIDE short
 ## Good
