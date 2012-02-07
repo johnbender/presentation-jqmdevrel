@@ -13,9 +13,6 @@ johnbender.github.com/presentation-jqmdevrel
 !SLIDE
 # All The Things
 
-!SLIDE center adobe-background
-## @ Adobe
-
 !SLIDE short
 ## Good
 ### (✿ ♥‿♥)
@@ -25,8 +22,11 @@ johnbender.github.com/presentation-jqmdevrel
 
 !SLIDE
 ## Roadmap
+### <span style="font-size: 2em; line-height: 70px">➲</span>
 ## Positioning
-## Resources
+### <span style="font-size: 2em; line-height: 70px">♞</span>
+!SLIDE center adobe-background
+## @ Adobe
 
 !SLIDE
 * goods
