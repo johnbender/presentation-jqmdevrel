@@ -17,10 +17,14 @@
 ** "don't try this at home"
 * bads
 ** transitions
+*** vimeo videos
 ** toolbars
 ** external integrations
+*** backbone
 ** speed
 ** size
+*** 24k min + gzipped
+*** 80k min
 * roadmap
 ** 1.1
 *** transitions
@@ -32,7 +36,6 @@
 *** fetchlinks
 ** 2.0
 *** tablet ui
-*** fetch links
 * positioning
 ** relative to other frameworks
 *** sencha
@@ -43,6 +46,7 @@
 ** relative to no framework
 *** simple sites
 *** media queries
+*** "don't try this at home"
 ** relative to native
 *** look and feel
 *** battery life/perf

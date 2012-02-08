@@ -13,6 +13,14 @@ body {
   border-radius: 3px;
 }
 
+.content.video {
+  text-align: center;
+}
+
+.content.video iframe {
+  margin: 0 auto;
+}
+
 .stats iframe {
   width: 900px;
   height: 600px;
@@ -40,6 +48,8 @@ body {
 .bullets.grid ul {
   font-size: 3em;
   margin-left: 40px;
+  /* account for showoff positioning */
+  margin-top: -200px;
 }
 
 .bullets.grid li {
@@ -166,7 +176,7 @@ span.monospace {
 /* code highlights */
 .content > pre.xlarge {
   margin-top: 40px;
-  font-size: 1.6em;>
+  font-size: 1.2em;
 }
 
 .content > pre.large {
@@ -203,10 +213,14 @@ span.monospace {
   font-size: 3.5em;
 }
 
-.content > pre b, .highlight b, b > .function-name, b > .string, b > .type, b > .constant {
+h3 > b, .content > pre b, .highlight b, b > .function-name, b > .string, b > .type, b > .constant {
   background: #D65600;
   color: white !important;
   outline: .18em solid #D65600;
+}
+
+h3 > b {
+  outline-top: .10em;
 }
 
 .content > pre b.normal, .highlight b.normal, b.normal > .function-name, b.normal > .string {
@@ -337,8 +351,22 @@ b .variable-name {
 }
 
 .adobe-background {
-  background-image: url(/image/one/adobe.jpg);
+  background-image: url(one/adobe.jpg);
   background-position: center center;
   background-size: 800px 600px;
   background-repeat: no-repeat
+}
+
+.slide .center {
+  width: 1024px;
+  height: 768px;
+}
+
+.large-unicode {
+  font-size: 2em;
+}
+
+.xlarge-unicode {
+  font-size: 5em;
+  line-height: 250px;
 }
