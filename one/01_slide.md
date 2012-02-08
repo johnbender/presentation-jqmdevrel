@@ -4,7 +4,7 @@
 johnbender.github.com/presentation-jqmdevrel
 
 !SLIDE bullets mono-bullets
-## me
+## Me
 * @johnbender
 * johnbender.us
 * github.com/johnbender
@@ -36,6 +36,7 @@ johnbender.github.com/presentation-jqmdevrel
 
 !SLIDE
 ## Popular API
+### <span style="2em">$( )</span>
 
 !SLIDE
 ### > 50% top 10000
@@ -357,8 +358,8 @@ github.com/amdjs/amdjs-api/wiki/AMD
 !SLIDE
 ## Transitions
 
-!SLIDE
-### vimeo videos
+!SLIDE video
+foo
 
 !SLIDE
 ## Toolbars
@@ -376,8 +377,7 @@ msdn.microsoft.com/en-us/scriptjunkie/hh377172.aspx
 
 !SLIDE
 ## Speed
-
-jquerymobile.com/speed/stats/visualize/
+<iframe src="http://jquerymobile.com/speed/stats/visualize/?agent=Windows%20Phone%20OS" scrolling="no" width="550px" height="500px" style="margin: 0 200px"> </iframe>
 
 !SLIDE
 ## Size
@@ -485,7 +485,7 @@ jquerymobile.com/resources/
 news.ycombinator.com
 
 !SLIDE bullets mono-bullets
-## me
+## Thanks!
 * @johnbender
 * johnbender.us
 * github.com/johnbender
