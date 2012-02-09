@@ -1,6 +1,5 @@
 !SLIDE
-# jQuery Mobile
-
+# <b>jQuery Mobile</b><br/><span class="small">more than you ever wanted to know</span>
 johnbender.github.com/presentation-jqmdevrel
 
 !SLIDE bullets mono-bullets
@@ -11,7 +10,22 @@ johnbender.github.com/presentation-jqmdevrel
 * jbender@adobe.com
 
 !SLIDE
-# All The Things
+## By Numbers
+
+!SLIDE bullets
+### github
+5000+ watchers/1000+ forks
+
+!SLIDE
+### books
+8 books/6 publishers
+
+!SLIDE
+### sentiment
+infinity tweets/hn poll
+
+!SLIDE center adobe-background
+## @ Adobe
 
 !SLIDE short
 ## Good
@@ -27,16 +41,13 @@ johnbender.github.com/presentation-jqmdevrel
 ## Positioning
 ### <span class="large-unicode">♞</span>
 
-!SLIDE center adobe-background
-## @ Adobe
-
 !SLIDE
 # Good
 ### <span class="xlarge-unicode">☺</span>
 
 !SLIDE
 ## Popular API
-### <span style="2em">$( )</span>
+<span style="font-family=monospace">$("amazing:psuedoselected:not(crazytown)")</span>
 
 !SLIDE
 ### > 50% top 10000
@@ -44,10 +55,8 @@ johnbender.github.com/presentation-jqmdevrel
 trends.builtwith.com/javascript/jQuery
 
 !SLIDE
-## Progressive Enhancement
-
-!SLIDE
 ## Semantic Markup
+Progressive Enhancement
 
 !SLIDE phone
 <pre class="xlarge">
@@ -318,6 +327,10 @@ trends.builtwith.com/javascript/jQuery
 
 !SLIDE
 ## Browser Support
+jquerymobile.com/gbs/
+
+!SLIDE stats
+<img src="mobile-browser-stats.png" style="margin-bottom: 800px"></img>
 
 !SLIDE bullets grid
 <div style="float: left">
@@ -342,14 +355,11 @@ trends.builtwith.com/javascript/jQuery
 
 !SLIDE
 ## Modularity
+45 modules
 
 !SLIDE
 ### AMD
-
 github.com/amdjs/amdjs-api/wiki/AMD
-
-!SLIDE
-### 45 modules
 
 !SLIDE
 # Bad
@@ -359,7 +369,8 @@ github.com/amdjs/amdjs-api/wiki/AMD
 ## Transitions
 
 !SLIDE video
-foo
+<div class="rotate-right" style="top: 76px; left: 80px;"><h3>android</h3></div>
+<iframe src="http://player.vimeo.com/video/35716602?title=0&amp;byline=0&amp;portrait=0" width="400" height="700" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe>
 
 !SLIDE
 ## Toolbars
@@ -377,16 +388,14 @@ msdn.microsoft.com/en-us/scriptjunkie/hh377172.aspx
 
 !SLIDE
 ## Speed
-<iframe src="http://jquerymobile.com/speed/stats/visualize/?agent=Windows%20Phone%20OS" scrolling="no" width="550px" height="500px" style="margin: 0 200px"> </iframe>
+<iframe src="http://jquerymobile.com/speed/stats/visualize/?agent=Windows%20Phone%20OS" scrolling="no" width="550px" height="500px" style="margin: 0 205px"> </iframe>
 
 !SLIDE
 ## Size
 
 !SLIDE
 ### min + gzip ~= 24k
-
-!SLIDE
-### jQuery + CSS ~= 60k
+### jquery + css ~= 60k
 
 !SLIDE
 # Roadmap
@@ -430,9 +439,8 @@ msdn.microsoft.com/en-us/scriptjunkie/hh377172.aspx
 ## Other Frameworks
 
 !SLIDE video
-### sencha
-<iframe src="http://player.vimeo.com/video/36004489?title=0&amp;byline=0&amp;portrait=0&amp;color=4CC208" width="320" height="460" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""> </iframe>
-
+<div class="rotate-right"><h3>sencha</h3></div>
+<iframe src="http://player.vimeo.com/video/36004489?title=0&amp;byline=0&amp;portrait=0&amp;color=4CC208" width="500" height="700" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""> </iframe>
 
 !SLIDE
 ### dojo mobile, jq.mobi, etc
@@ -442,12 +450,11 @@ msdn.microsoft.com/en-us/scriptjunkie/hh377172.aspx
 
 !SLIDE
 ### simple sites
-
-!SLIDE
-### media queries
+media queries
 
 !SLIDE
 ### "don't try this at home"
+or Webkit All The Things!
 
 !SLIDE
 ## Native

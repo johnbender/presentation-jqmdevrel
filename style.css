@@ -19,6 +19,8 @@ body {
 
 .content.video iframe {
   margin: 0 auto;
+  border: 5px solid purple;
+  border-radius: 3px;
 }
 
 .stats iframe {
@@ -54,6 +56,10 @@ body {
 
 .bullets.grid li {
   margin-top: 20px;
+}
+
+.bullets.small li {
+  font-size: 0.8em;
 }
 
 .content h1, .content h2 {
@@ -106,11 +112,11 @@ h1, h2, h3, h4 {
 }
 
 h1 b {
-  font-size: 1.48em;
+  font-size: 1.18em;
 }
 
 h1 .small {
-  font-size: 0.8em;
+  font-size: 0.5em;
 }
 
 .title h3 {
@@ -369,4 +375,11 @@ b .variable-name {
 .xlarge-unicode {
   font-size: 5em;
   line-height: 250px;
+}
+
+.rotate-right {
+  position: absolute;
+  left: 30px;
+  top: 76px;
+  -webkit-transform: rotate(-90deg);
 }
