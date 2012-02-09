@@ -14,11 +14,11 @@ johnbender.github.com/presentation-jqmdevrel
 
 !SLIDE bullets
 ### github
-5000+ watchers/1000+ forks
+5000+ watchers/990 forks
 
 !SLIDE
 ### books
-8 books/6 publishers
+8 books/7 publishers
 
 !SLIDE
 ### sentiment
@@ -406,30 +406,40 @@ msdn.microsoft.com/en-us/scriptjunkie/hh377172.aspx
 
 !SLIDE
 ### transitions
+rethink android
 
 !SLIDE
 ### toolbars
+position fixed
 
 !SLIDE
 ### builder
+get fit
 
 !SLIDE
 ### this month
+/me crosses his fingers
 
 !SLIDE
 ## 1.2
 
 !SLIDE
-### popup
+### popup widget
+intel contrib
 
 !SLIDE
 ### fetchlinks
+link replacement
 
 !SLIDE
 ## 2.0
 
 !SLIDE
 ### tablets
+
+!SLIDE
+### tablets
+<div class="gigantor">(╬ ಠ益ಠ)</div>
 
 !SLIDE
 # Positioning
@@ -444,6 +454,7 @@ msdn.microsoft.com/en-us/scriptjunkie/hh377172.aspx
 
 !SLIDE
 ### dojo mobile, jq.mobi, etc
+less interest
 
 !SLIDE
 ## No Framework
@@ -454,16 +465,18 @@ media queries
 
 !SLIDE
 ### "don't try this at home"
-or Webkit All The Things!
+or webkit all the things!
 
 !SLIDE
 ## Native
 
 !SLIDE
 ### look and feel
+xplatform is many platforms
 
 !SLIDE
 ### battery life/perf
+inception
 
 !SLIDE
 # Resources
@@ -486,8 +499,6 @@ jquerymobile.com/resources/
 
 !SLIDE
 ## Community
-
-!SLIDE
 ### <b>Y</b> hacker news
 news.ycombinator.com
 
