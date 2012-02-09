@@ -14,15 +14,15 @@ johnbender.github.com/presentation-jqmdevrel
 
 !SLIDE bullets
 ### github
-5000+ watchers/990 forks
+5000+ watchers / 990 forks
 
 !SLIDE
 ### books
-8 books/7 publishers
+8 books / 7 publishers
 
 !SLIDE
 ### sentiment
-infinity tweets/hn poll
+news.ycombinator.com/item?id=3549640
 
 !SLIDE center adobe-background
 ## @ Adobe
